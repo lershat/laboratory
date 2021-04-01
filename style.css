@@ -1,8 +1,8 @@
  
 body{
-  background-image:url(picture.gif);
+  background-image:url(..img/fon.jpg);
   background-repeat:no-repeat;
   background-color:#243CED;
-  background-position:50px 50px;
+  background-position:center top;
   color:yellow;
 }
