@@ -1,8 +1,12 @@
- 
-body{
-  background-image:url(..img/fon.jpg);
-  background-repeat:no-repeat;
-  background-color:#243CED;
-  background-position:center top;
-  color:yellow;
+p#sn, p#so, p#si{
+  font-family: Verdana, sans-serif;
+}
+p#sn{
+  font-style:normal;
+}
+p#so{
+  font-style:oblique;
+}
+p#si{
+  font-style:italic;
 }
