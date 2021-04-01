@@ -2,5 +2,5 @@ body{
 	background-image:url(../img/vNOWuT.jpg);
 	background-color:#D4D4D4;
 	color:yellow;
-	background-repeat:no-repeat;
+	background-repeat:repeat-y;
 }
