@@ -1,6 +1,7 @@
 body{
-	background-image:url(../img/vNOWuT.jpg);
-	background-color:#D4D4D4;
-	color:yellow;
-	background-repeat:repeat-y;
+  background-image:url(picture.gif);
+  background-repeat:no-repeat;
+  background-color:#243CED;
+  background-position:10% 30%;
+  color:yellow;
 }
