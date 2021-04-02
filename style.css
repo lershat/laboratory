@@ -1,10 +1,7 @@
-p#sn, p#so, p#si{
-  font-family:  Verdana, sans-serif;
-  font-size:12px;
+a{
+  text-decoration:none;
 }
-p#so{
-  font-size:1.2em;
+a:hover{
+  text-decoration:underline;
 }
-p#si{
-  font-size:0.8em;
-}
+   
