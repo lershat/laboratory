@@ -1,6 +1,7 @@
-p#sn, p#so, p#si{
-	font-family: Verdana, sans-serif;
+a{
+  text-decoration:none;
 }
-p#so{
-	font-variant:small-caps;
+a:hover{
+  text-decoration:underline;
 }
+    
